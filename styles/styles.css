@@ -9,6 +9,21 @@ p {
     margin: 10px 20px;
 }
 
+.built-by {
+    margin-top: 50px;
+    font-size: 12px;
+    font-family: monospace;
+}
+
+a {
+    text-decoration: none;
+    transition: all 200ms ease-in-out;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
 footer {
     text-align: center;
 }
